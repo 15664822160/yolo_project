@@ -1,0 +1,15 @@
+E:\Pycharm\PythonProject3\my_dataset3\val\images\136.jpg
+E:\Pycharm\PythonProject3\my_dataset3\val\images\142.jpg
+E:\Pycharm\PythonProject3\my_dataset3\val\images\13.jpg
+E:\Pycharm\PythonProject3\my_dataset3\val\images\120.jpg
+E:\Pycharm\PythonProject3\my_dataset3\val\images\102.jpg
+E:\Pycharm\PythonProject3\my_dataset3\val\images\126.jpg
+E:\Pycharm\PythonProject3\my_dataset3\val\images\63.jpg
+E:\Pycharm\PythonProject3\my_dataset3\val\images\127.jpg
+E:\Pycharm\PythonProject3\my_dataset3\val\images\98.jpg
+E:\Pycharm\PythonProject3\my_dataset3\val\images\123.jpg
+E:\Pycharm\PythonProject3\my_dataset3\val\images\81.jpg
+E:\Pycharm\PythonProject3\my_dataset3\val\images\16.jpg
+E:\Pycharm\PythonProject3\my_dataset3\val\images\27.jpg
+E:\Pycharm\PythonProject3\my_dataset3\val\images\125.jpg
+E:\Pycharm\PythonProject3\my_dataset3\val\images\46.jpg

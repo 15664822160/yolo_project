@@ -1,0 +1,6 @@
+names:
+- walk
+- fall
+nc: 2
+train: E:\Pycharm\PythonProject3\my_dataset3\train.txt
+val: E:\Pycharm\PythonProject3\my_dataset3\val.txt
